@@ -1,0 +1,48 @@
+{
+
+	"HTMLFileName":"index.html",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"symbol_stage":{
+		"element_${_content} > div:nth-child(1) > div:nth-child(1) > div:nth-child(2)":{
+			"timelineColor2":"0xcbbd71",
+			"animationEnabled":"true",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${_content} > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1)":{
+			"timelineColor2":"0x81aa62",
+			"animationEnabled":"true",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767"},
+		"element_${_content} > div:nth-child(1) > div:nth-child(1) > img:nth-child(1)":{
+			"timelineColor2":"0x4fa275",
+			"animationEnabled":"true",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"}},
+	"TransitionIdCounter":"33",
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"100",
+	"pixelsPerMs":"0.2",
+	"usedBOM":"false",
+	"nextElementColorIndex":"4",
+	"stage-Default Timeline_playhead_ms":"1250",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_content} > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1)\": [], \
+                \"${_content} > div:nth-child(1) > div:nth-child(1) > img:nth-child(1)\": [], \
+                \"${_content} > div:nth-child(1) > div:nth-child(1) > div:nth-child(2)\": []\
+            }\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"viewStartY":"0"}
