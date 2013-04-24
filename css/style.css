@@ -747,8 +747,9 @@ form input[type="submit"] {
 		.section.banner .hero{left:27px; height: 310px;}
 		.section.banner .button{top: 125px; left: 360px;}
 		.section.banner .button a{padding: 15px 20px 15px 50px;}
-		.shirt-picture{float: none; margin: auto;}
-		.shirt-details{float: none; margin: auto; width: 375px;}
+		.shirt-picture{float: none; margin: 0 auto;}
+		.shirt-details{float: none; margin: 0 auto; width: 375px;}
+		.section.page .shirt-details h1{text-align: center;}
 }
 
 /* Mobile Size */
@@ -761,10 +762,14 @@ form input[type="submit"] {
 		.header .nav li a{margin-left: 0; margin-right: 15px; line-height: 91px; width: 75px;}
 		.section.banner{height: 225px;}
 		.section.banner .hero{left:-23px; height: 250px;}
-		.section.banner .button{top: 150px; left: 25px;}
+		.section.banner .button{top: 150px; left: 25px; z-index: 1000;}
 		.section.banner .button a{padding: 5px 20px;}
 		form{width:300px;}
 		form table{width: 300px;}
 		.section.page p {width: 300px;}
 		form input[type="submit"]{width: 300px;}
-}
+		.shirt-picture{width: 270px; float: none;}
+		.shirt-picture img{width: 250px;}
+		.shirt-details{ float: none; width: 300px; }
+		.section.page .shirt-details h1{text-align: center;}
+		.footer{padding: 20px 0;}
