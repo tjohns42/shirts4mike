@@ -743,7 +743,7 @@ form input[type="submit"] {
 
 @media all and (max-width: 979px) and (min-width: 481px){
 		.wrapper {width: 90%; margin: 0 auto;}
-		.section.shirts ul.products{width: 488px;}
+		.section.shirts ul.products{width: 491px;}
 		.section.banner .hero{left:27px; height: 310px;}
 		.section.banner .button{top: 125px; left: 360px;}
 		.section.banner .button a{padding: 15px 20px 15px 50px;}
@@ -754,6 +754,9 @@ form input[type="submit"] {
 /* Mobile Size */
 
 @media all and (max-width: 480px){
-		.wrapper {width: 460px; margin: 0 auto;}
+		.wrapper {width: 300px; margin: 0 auto;}
 		.section.shirts ul.products{width: 300px;}
+		.header .branding-title{ height: 63px; width: 100px; background-size: 100%;}
+		.header .nav{padding: 0;}
+		.header .nav li a{margin-left: 15px; line-height: 91px; width: 75px;}
 }
